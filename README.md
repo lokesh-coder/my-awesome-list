@@ -69,6 +69,8 @@
 - [sphinx-bootstrap-theme](https://github.com/ryan-roemer/sphinx-bootstrap-theme) - Sphinx Bootstrap Theme  
 
 ## JavaScript
+- [problems](https://github.com/gokulkrishh/problems) - Atleast one problem per day (Mostly weekdays) 🤪  
+- [object-validator-pro](https://github.com/trapcodeio/object-validator-pro) - More than just an object validator.  
 - [stargazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!  
 - [leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.  
 - [trough](https://github.com/wooorm/trough) - Middleware: a channel used to convey a liquid  
@@ -341,7 +343,7 @@
 - [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀  
 - [socket-io-typescript-chat](https://github.com/luixaviles/socket-io-typescript-chat) - A chat application implemented using Socket.io, TypeScript, Angular and Angular Material components  
 - [tokenizer.js](https://github.com/ashubham/tokenizer.js) - A modern runtime text tokenizer, for the modern web.  
-- [storybook](https://github.com/storybookjs/storybook) - UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!  
+- [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!  
 - [rxjs-spy](https://github.com/cartant/rxjs-spy) - A debugging library for RxJS  
 - [angular-package-builder](https://github.com/dominique-mueller/angular-package-builder) - Packages your Angular 4+ library based on the Angular Package Format.  
 - [probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow  
